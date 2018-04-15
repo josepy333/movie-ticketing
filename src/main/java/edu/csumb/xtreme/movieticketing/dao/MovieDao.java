@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface MovieDao extends JpaRepository<MovieEntity, Integer> {
-package controller;
+
 
 import java.io.IOException;
 import java.util.ArrayList;
